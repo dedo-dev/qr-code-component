@@ -35,7 +35,7 @@ I wrote down the HTML and after the style. For this challenge, I just made the c
 ## Author
 
 - Frontend Mentor - [@dedo-dev](https://www.frontendmentor.io/profile/dedo-dev)
-- Linkedin - [](https://www.linkedin.com/in/daniele-zeppieri-0b1a36252/)
+- Linkedin - [@daniele-zeppieri](https://www.linkedin.com/in/daniele-zeppieri-0b1a36252/)
 - Twitter - [@dedoDev13](https://twitter.com/dedoDev13)
 - Instagram - [@dedodev](https://www.instagram.com/dedodev/)
 
