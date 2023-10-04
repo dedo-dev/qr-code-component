@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/order-summary-card-using-css-flexbox-Mr8Lk7iilU
 - Live Site URL: https://dedo-dev.github.io/qr-code-component/
 
 ## My process
