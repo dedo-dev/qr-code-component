@@ -87,17 +87,3 @@ body {
     font-size: var(--fs-body);
     margin-block-end: 1.5rem;
 }
-
-footer {
-    margin-block-start: 3rem;
-}
-
-.attribution {
-    font-size: var(--fs-attribution);
-    text-align: center;
-}
-
-.attribution a {
-    color: var(--clr-attribution);
-    font-weight: var(--fw-700);
-}
