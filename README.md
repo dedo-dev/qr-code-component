@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/qr-code-component-uGr2VDqteK)
+- Live Site URL: (https://dz-qr-code-component.vercel.app/)
 
 ## My process
 
@@ -66,4 +66,3 @@ For the future projects I want to continue focusing on CSS Grid, Container Queri
 
 - Frontend Mentor - [@dedo-dev](https://www.frontendmentor.io/profile/dedo-dev)
 - Linkedin - [@daniele-zeppieri](www.linkedin.com/in/daniele-zeppieri-0b1a36252)
-- GitHub - [@dedo-dev](https://github.com/dedo-dev)
