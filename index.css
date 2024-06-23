@@ -37,11 +37,13 @@ img, picture {
     --clr-cardBG: var(--primary-white);
     --clr-h1: var(--primary-darkBlue);
     --clr-body: var(--primary-grayishBlue);
+    --clr-attribution: hsl(228, 45%, 44%);
 
     /* Typography */
     --ff: 'Outfit', sans-serif;
     --fs-h1: 1.375rem;
     --fs-body: .9375rem;
+    --fs-attribution: clamp(0.6875rem, 0.6223rem + 0.3261vi, 0.875rem);
     --fw-400: 400;
     --fw-700: 700;
 }
@@ -58,6 +60,7 @@ body {
     display: flex;
     flex-direction: column;
     max-width: 20rem;
+    margin-inline: auto;
     background: var(--clr-cardBG);
     padding: 1em;
     border-radius: 20px;
@@ -87,4 +90,14 @@ body {
 
 footer {
     margin-block-start: 3rem;
+}
+
+.attribution {
+    font-size: var(--fs-attribution);
+    text-align: center;
+}
+
+.attribution a {
+    color: var(--clr-attribution);
+    font-weight: var(--fw-700);
 }
