@@ -88,3 +88,17 @@ body {
     letter-spacing: 0.012rem;
     margin-block-end: 1.5rem;
 }
+
+footer {
+    margin-block-start: auto;
+}
+
+.attribution {
+    font-size: var(--fs-attribution);
+    text-align: center;
+}
+
+.attribution a {
+    color: var(--clr-attribution);
+    font-weight: var(--fw-700);
+}
