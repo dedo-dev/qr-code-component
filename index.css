@@ -52,8 +52,9 @@ img, picture {
 body {
     background: var(--clr-bodyBG);
     font-family: var(--ff);
-    display: grid;
-    place-content: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .card {
