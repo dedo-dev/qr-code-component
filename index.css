@@ -12,11 +12,11 @@ body, h1, p {
 
 body {
     min-height: 100vh;
-    line-height: 1.5;
+    line-height: 1.2;
 }
 
 h1 {
-    line-height: 1.1;
+    line-height: 1.27;
     text-wrap: balance;
 }
 
