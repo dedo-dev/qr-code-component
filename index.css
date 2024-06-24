@@ -53,6 +53,7 @@ body {
     background: var(--clr-bodyBG);
     font-family: var(--ff);
     display: flex;
+    flex-direction: column;
     justify-content: space-between;
     align-items: center;
 }
