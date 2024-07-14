@@ -48,14 +48,23 @@ img, picture {
     --fw-700: 700;
 }
 
+/* Centering content for the Challenge */
+body {
+    min-height: 100vh;
+    display: grid;
+    grid-template-rows: 1fr auto;
+    justify-items: center;
+}
+
+main {
+    align-self: center;
+}
+/* ---------------------------------- */
+
 /* LAYOUT */
 body {
     background: var(--clr-bodyBG);
     font-family: var(--ff);
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    align-items: center;
 }
 
 .card {
