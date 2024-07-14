@@ -65,4 +65,4 @@ For the future projects I want to continue focusing on CSS Grid, Container Queri
 ## Author
 
 - Frontend Mentor - [@dedo-dev](https://www.frontendmentor.io/profile/dedo-dev)
-- Linkedin - [@daniele-zeppieri](www.linkedin.com/in/daniele-zeppieri-0b1a36252)
+- Linkedin - [@daniele-zeppieri](www.linkedin.com/in/daniele-zeppieri-0b1a36252/)
